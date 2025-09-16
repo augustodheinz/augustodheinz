@@ -13,9 +13,4 @@ Meu nome é Augusto, tenho 15 anos e estou ingressando na programação estudand
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=githubjavascriptebac&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
-
-
-### Contatos
-
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](httpswww.linkedin.cominpedrobrocaldi)
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=augustodheinz&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
