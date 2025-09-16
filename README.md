@@ -9,7 +9,7 @@ Meu nome é Augusto, tenho 15 anos e estou ingressando na programação estudand
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=githubjavascriptebac&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=augustodheinz&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Linguagens utilizadas
 
