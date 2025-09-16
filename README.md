@@ -5,12 +5,12 @@ Meu nome é Augusto, tenho 15 anos e estou ingressando na programação estudand
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=augustodheinz&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustodheinz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=augustodheinz&repo=E-Commerce&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustodheinz&repo=E-Commerce&theme=dark)](https://github.com/augustodheinz/E-Commerce)
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=augustodheinz&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustodheinz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
